@@ -452,8 +452,12 @@ width: 50%;
 
 
 .skills .skills-content .right .react::before{
-    width: 20%;
+    width: 50%;
     }
+
+    .skills .skills-content .right .node::before{
+        width: 50%;
+        }
 
 
 /* team styling section*/
