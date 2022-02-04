@@ -5,6 +5,7 @@
     margin: 0;
     box-sizing: border-box;
     text-decoration: none;
+   
 }
 
 html{
@@ -118,9 +119,7 @@ color: crimson;
     color: #fff;
     min-height: 500px;
   background: url(img/Omololan\ \(1\).jpg) no-repeat center;
-  background-size: cover
-  ;
-
+  background-size: cover;
     font-family: "Ubuntu";
 }
 
